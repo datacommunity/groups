@@ -1,4 +1,4 @@
-# groups
+# meetups
 A list of community meeetups
 
 Json template for adding a new link:
