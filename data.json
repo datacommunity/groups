@@ -1,2 +1,332 @@
 [
+    {
+        "Url":  "https://www.meetup.com/MSFT-Stack",
+        "Name":  "MSFT Stack Cardiff",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/dataMinds-ai",
+        "Name":  "dataMinds.be",
+        "Country":  "Belgium"
+    },
+    {
+        "Url":  "https://www.meetup.com/Redmond-PASS-User-Group-and-Data-Professionals-Meetup",
+        "Name":  "Redmond PASS User Group for SQL Server \u0026#038; Data Professionals",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Albuquerque-SQL-Server-User-Group",
+        "Name":  "Albuquerque SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Baltimore-SQL-Server-Users-Group",
+        "Name":  "Baltimore SQL Server Users Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Utah-SQL-Server-Group",
+        "Name":  "Utah SQL Server Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/NESQLUG/",
+        "Name":  "New England SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Atlanta-MDF-SQL-Server-User-Group/",
+        "Name":  "Atlanta MDF SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/jaxssug",
+        "Name":  "Jacksonville SQL Server User Group (JSSUG)",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Hampton-Roads-SQL-Server-User-Group",
+        "Name":  "Hampton Roads SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Community-Weekender-Europe/",
+        "Name":  "#DataWeekender",
+        "Country":  "Online"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQL-Friday",
+        "Name":  "SQL Friday",
+        "Country":  "Online"
+    },
+    {
+        "Url":  "https://www.meetup.com/NOVASQL",
+        "Name":  "Northern Virginia SQL Server Users Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQLPass-DataProfessional",
+        "Name":  "Southland Data Professionals (PASS User Groups)",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/DataSwindon/",
+        "Name":  "Subject Data: Swindon",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQL-Server-User-Group-Croatia/",
+        "Name":  "SQL Server User Group Croatia",
+        "Country":  "Croatia"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Durham/",
+        "Name":  "Data Durham",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/The-Chester-Big-Data-and-Data-Science-Meetup/",
+        "Name":  "The Chester Big Data and Data Science Meetup",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Scotland-Data-Science-Technology-Meetup/",
+        "Name":  "Scotland Data Science \u0026#038; Technology Meetup",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/iotScotland/",
+        "Name":  "IOT Scotland Meetup",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/rladies-edinburgh/",
+        "Name":  "R-Ladies Edinburgh",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Community-Krakow/",
+        "Name":  "Data Community Krakow",
+        "Country":  "Poland"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Community-Warsaw/",
+        "Name":  "Data Community Warsaw",
+        "Country":  "Poland"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Community-Katowice/",
+        "Name":  "Data Community Katowice",
+        "Country":  "Poland"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Community-Bydgoszcz-i-Toru%C5%84/",
+        "Name":  "Data Community Bydgoszcz i Toruń",
+        "Country":  "Poland"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQLIreland/",
+        "Name":  "SQL Ireland User Group",
+        "Country":  "Ireland"
+    },
+    {
+        "Url":  "https://www.meetup.com/UK-Data-Platform-Cloud-Virtual-Meetup/",
+        "Name":  "UK Data Platform \u0026#038; Cloud Virtual Meetup",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/London-PUG/",
+        "Name":  "London Power BI User Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Newcastle_DPaC/",
+        "Name":  "Newcastle Data Platform and Cloud (DPaC)",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQL-South-West/",
+        "Name":  "Data South West",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/DataBristol/",
+        "Name":  "Subject Data: Bristol",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/ppug_belfast/",
+        "Name":  "Microsoft Power Platform User Group Belfast",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/EdiDPMeetup/",
+        "Name":  "Edinburgh Data Platform Meetup",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Glasgow-SQL-User-Group/",
+        "Name":  "Glasgow SQL User Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Microsoft-Data-London/",
+        "Name":  "Microsoft Data London",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/DataCardiff/",
+        "Name":  "Subject Data: Cardiff",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/SDPG-PASS-Chapter-Meetup/",
+        "Name":  "Surrey Data Platform Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/London-Einstein-Analytics-Meetup/",
+        "Name":  "London Einstein Analytics DataTribe",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/San-Francisco-Microsoft-Data-Platform/",
+        "Name":  "San Francisco Microsoft Data Platform Meetup",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/SiliconValley-Microsoft-Data-Platform/",
+        "Name":  "Silicon Valley Microsoft Data Platform Meetup",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Vilnius-Microsoft-Data-Platform-Meetup/",
+        "Name":  "Vilnius Microsoft Data Platform Meetup",
+        "Country":  "Lithuania"
+    },
+    {
+        "Url":  "https://www.meetup.com/Microsoft-Data-Platform-User-Group-Norway/",
+        "Name":  "Microsoft Data Platform User Group Norway",
+        "Country":  "Norway"
+    },
+    {
+        "Url":  "https://www.meetup.com/Reading-Microsoft-Data-Platform-User-Group/",
+        "Name":  "Reading Microsoft Data Platform User Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Arizona-SQL-Server-User-Group",
+        "Name":  "Arizona SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQL-SERVER-User-Group-Christchurch-New-Zealand/",
+        "Name":  "SQL SERVER \u0026#038; Data Management User Group Christchurch, NZ",
+        "Country":  "New Zealand"
+    },
+    {
+        "Url":  "https://www.meetup.com/MN-SQL-Server-User-Group-PASSMN/",
+        "Name":  "PASSMN (Minnesota SQL Server User Group)",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/SteelCitySQL/",
+        "Name":  "Steel City SQL Server Users Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/NottsDataPlatform/",
+        "Name":  "Nottingham Data Platform User Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Rhode-Island-SQL-Server-Users-Group/",
+        "Name":  "Rhode Island SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/North-Texas-SQL-Server-User-Group/",
+        "Name":  "North Texas SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Platform-Professionals-Swiss-PASS-Chapter",
+        "Name":  "Data Platform Professionals \u0026#8211; Swiss PASS Chapter",
+        "Country":  "Switzerland"
+    },
+    {
+        "Url":  "https://www.meetup.com/GLASS-Greater-Lansing-Area-for-SQL-Server/",
+        "Name":  "GLASS: Greater Lansing Area for SQL Server",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Richmond-SQL-Server-Users-Group/",
+        "Name":  "Richmond SQL Server Users Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Data-Platform-Meetup-Israel",
+        "Name":  "Data Platform Meetup Israel",
+        "Country":  "Israel"
+    },
+    {
+        "Url":  "https://www.meetup.com/en-AU/IndyPASS-Microsoft-SQL-Server-User-Group",
+        "Name":  "IndyPASS-Microsoft SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/czechpass",
+        "Name":  "Czech PASS",
+        "Country":  "Czech Republic"
+    },
+    {
+        "Url":  "https://www.meetup.com/Auckland-SQL-User-Group",
+        "Name":  "Auckland SQL User Group",
+        "Country":  "New Zealand"
+    },
+    {
+        "Url":  "https://www.meetup.com/tripass/",
+        "Name":  "Triangle SQL Server User Group",
+        "Country":  "United States"
+    },
+    {
+        "Url":  "https://www.meetup.com/Belgium-Power-BI-User-Group",
+        "Name":  "Belgium Power BI User Group",
+        "Country":  "Belgium"
+    },
+    {
+        "Url":  "https://www.meetup.com/PLSSUG/",
+        "Name":  "Data Community {DC}",
+        "Country":  "Poland"
+    },
+    {
+        "Url":  "https://www.meetup.com/SQL-Server-User-Group-Cork/",
+        "Name":  "SQL Server \u0026#038; Microsoft Data Platform User Group \u0026#8211; Cork",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/DataWeekender/",
+        "Name":  "Data Community Weekender",
+        "Country":  "Online"
+    },
+    {
+        "Url":  "https://www.meetup.com/MicrosoftDataPlatformBirmingham/",
+        "Name":  "Microsoft Data Platform Group \u0026#8211; Birmingham",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/McrDataPlatform/",
+        "Name":  "Manchester Data Platform User Group",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/dataleeds/",
+        "Name":  "Leeds Data Platform \u0026#038; Cloud",
+        "Country":  "United Kingdom"
+    },
+    {
+        "Url":  "https://www.meetup.com/Southampton-Data-Platform-and-Cloud-Group/",
+        "Name":  "Southampton Data Platform \u0026#038; Cloud Group",
+        "Country":  "United Kingdom"
+    }
 ]
