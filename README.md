@@ -5,8 +5,8 @@ Json template for adding a new link:
 
 ```
 ,{
-    "Name" : "Leeds Data Platform & Cloud",
-    "Country" : "UK"
-    "Url" : "https://www.meetup.com/dataleeds/"
+    "Name" : "Local User Group",
+    "Country" : "Greenland"
+    "Url" : "https://www.meetup.com/xxx/"
   }
 ```
